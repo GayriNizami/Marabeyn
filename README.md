@@ -1,2 +1,2 @@
 # Marabeyn
-Hub'a girilirkende çıkılırkende Marabeyn denir.
+Hub'a girilirkende çıkılırkende marabeyn denir.
